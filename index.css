@@ -222,6 +222,18 @@ main {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+
+}
+
+.main_currency_table .up{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-left: 10px;
+  background-image: url('./assets/icons/trending-up.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .currency_table__date{
@@ -233,3 +245,11 @@ main {
   background-color: var(--soft-orange);
   border-radius: 8px;
 }
+
+.currency_table__date p {
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  font-weight: ;
+  color: var(--warm-black);  
+}
+
