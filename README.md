@@ -33,7 +33,7 @@ En este curso de platzi aprendí cómo crear proyectos pensados para adaptarse a
 
 
 ## Página Web   🌐
-👉 [`URL`](https://yocselys.github.io/hilarte_landing/)
+👉 [`URL`](https://yocselys.github.io/curso_mobile_first/)
 ## Demo
 <img width="150" src="./src/../assets/img/mobile.gif"/>
 ##
