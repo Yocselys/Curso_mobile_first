@@ -115,6 +115,7 @@ main {
   padding-top: 80px;
   padding-bottom: 30px;
   text-align: center;
+  background-color: var(--warm-black);
 }
 
 .main_exchange_container_title{
@@ -140,7 +141,7 @@ main {
   font-size: 2.4rem;
   font-weight: bold;
   line-height: 2.6rem;
-  color: var(--black);
+  color: var(--just-white);
 }
 
 .main_exchange_container p{
@@ -148,7 +149,7 @@ main {
   font-weight: 1.4rem;
   font-weight: 500;
   line-height: 1.6rem;
-  color: #757575;
+  color: var(--soft-orange);
 }
 
 .main_currency_table{
@@ -203,7 +204,7 @@ main {
 }
 
 .currency_table_container .table__bottom_right{
-  border-radius: 0 0 0 15px;
+  border-radius: 0 0 15px 0;
 }
 
 .currency_table_container .table__right{
@@ -237,12 +238,12 @@ main {
 }
 
 .currency_table__date{
-  width: 190px;
+  /*width: 190px;*/
   height: 30px;
   margin: 0 auto;
   margin-top: 15px;
   padding: 8px;
-  background-color: var(--soft-orange);
+  background-color: var(--bitcoin-orange);
   border-radius: 8px;
 }
 
@@ -252,9 +253,6 @@ main {
   /*font-weight: ;*/
   color: var(--warm-black);  
 }
-
-
-
 
 .main_product_detail{
   position: relative;
@@ -380,6 +378,7 @@ main {
   min-width: 320px;
   padding-bottom: 70px;
   text-align: center;
+  background-color: var(--warm-black);
 }
 
 .plans--title{
@@ -395,7 +394,7 @@ main {
   font-size: 2.4rem;
   font-weight: bold;
   line-height: 2.6rem;
-  color: var(--black);
+  color: var(--just-white);
 }
 
 .plans--title p{
@@ -546,5 +545,4 @@ footer .footer_left ul{
 
 .footer_left a{
   text-decoration: none;
-
 }
